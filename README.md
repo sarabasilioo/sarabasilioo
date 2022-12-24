@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarabasilioo
-- 👀 I’m interested in ... aprender a programar e usar mais o app
-- 🌱 I’m currently learning ... matemática
+- 👀 I’m interested in ...learn how to program and use the app more
+- 🌱 I’m currently learning ... mathematics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sara.basilio@academico.ifg.edu.br
 
